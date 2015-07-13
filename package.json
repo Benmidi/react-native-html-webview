@@ -24,8 +24,8 @@
     "url": "https://github.com/almost/react-native-html-webview/issues"
   },
   "homepage": "https://github.com/almost/react-native-html-webview",
-  "peerDepenencies": {
-    "react-native": "^0.4.4"
+  "peerDependencies": {
+    "react-native": ">=0.7.0 || 0.8.0-rc"
   },
   "dependencies": {
     "safe-html": "0.0.5"
